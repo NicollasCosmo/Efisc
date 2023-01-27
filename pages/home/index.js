@@ -1,5 +1,5 @@
 import { View } from "react-native";
-import TooBar from "../../componentes/Toolbar";
+import ToolBar from "../../componentes/Toolbar";
 
 
 
@@ -8,7 +8,7 @@ export default function Home() {
     return (
         
        
-            <TooBar />
+            <ToolBar user_name={'Ricardo Barros de Miranda'}/>
     
       
     )
